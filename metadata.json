@@ -1,0 +1,6 @@
+{
+  "name": "Counter Billing – Asan Kiryana",
+  "description": "Offline Pakistani Kiryana store counter billing, POS, inventory, profit analytics, and thermal receipt software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
